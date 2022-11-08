@@ -1,0 +1,25 @@
+.container__principal{
+    text-align: center;
+    position: relative;
+    
+}
+
+
+.container__titulo{
+    color: var(--titulo-principal);
+    font-size: 40px;
+    margin-top: 7em;
+    
+    
+}
+
+.container__texto-principal{
+    color: blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    position: absolute;
+    margin: 12em 0 0 20em;
+    font-size: 25px;
+    
+      
+}

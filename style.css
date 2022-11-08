@@ -1,0 +1,27 @@
+@import url("styles/cabecalho.css");
+@import url("styles/sobre.css");
+@import url("styles/casamento.css");
+@import url("styles/aniversario.css");
+@import url("styles/contato.css");
+@import url("styles/home.css");
+
+:root{
+    --branco-principal: #FFFFFF;
+    --titulo-principal: #0F0F00;
+    --cor-lista: gray;
+    --cor-menu: red;
+    --cor-header-fixo: #000FFF;
+    --fonte-principal: "Inter";
+}
+
+
+
+
+
+body{
+    font-size: 16px;
+    color: var(--branco-principal);
+    font-family: "Inter";
+    font-weight: 400;
+
+}
